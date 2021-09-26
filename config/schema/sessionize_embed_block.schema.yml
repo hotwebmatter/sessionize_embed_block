@@ -6,5 +6,5 @@ sessionize_embed_block.settings:
       type: string
       label: Sessionize Embed ID
     embed_style:
-      type: integer
+      type: string
       label: Sessionize Embed Style
