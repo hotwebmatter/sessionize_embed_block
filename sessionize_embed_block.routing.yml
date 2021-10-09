@@ -4,4 +4,4 @@ sessionize_embed_block.admin_settings:
     _form: '\Drupal\sessionize_embed_block\Form\SettingsForm'
     _title: 'Sessionize Embed Block Settings'
   requirements:
-    _permission: 'administer site configuration'
+    _permission: 'administer sessionize embed block'
